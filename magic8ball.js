@@ -38,3 +38,6 @@ switch (eightBall){
 		eightBall = 'Sure.';
 		break;
 }
+
+console.log('The Magic Eight Ball has conferred with the spirits, and with a resounding exultation it has decreed the answer: ');
+console.log(eightBall);
